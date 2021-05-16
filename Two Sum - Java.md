@@ -16,7 +16,8 @@ Output: [0,1]
 Output: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
 
-
+<br/>
+<br/>
 
 ## Solution 01 - Brute Force
 
@@ -43,7 +44,8 @@ class Solution {
 }
 ```
 
-
+<br/>
+<br/>
 
 ## Solution 02 - HashMap
 
